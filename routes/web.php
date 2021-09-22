@@ -22,3 +22,6 @@ Route::resource('comments','CommentsController');
 Auth::routes();
 
 Route::get('/dashboard', 'DashboardController@index');
+
+// test commit
+
